@@ -1,0 +1,26 @@
+int main() {
+int x = 10;
+double y = 6.9;
+
+printf("Hello, world!");
+return 0; //proba
+}
+
+//comment bla bla8
+#define FTG
+
+0x14d;
+
+
+/dd
+989889hhjgjg
+'c'
+'sssss'
+       @0d
+"ddddd
+
+
+
+/*multiline ahh 
+comment*/
+	
